@@ -1,0 +1,516 @@
+No;Kode;Daerah;Level;SD;SMP;SMA;SMK;Total
+2;10100;Kab. Kepulauan Seribu;Kabupaten/Kota;1;0;0;0;1
+3;16000;Kota Jakarta Pusat;Kabupaten/Kota;57;25;17;42;141
+4;16100;Kota Jakarta Utara;Kabupaten/Kota;162;57;23;42;284
+5;16200;Kota Jakarta Barat;Kabupaten/Kota;235;46;44;19;344
+6;16300;Kota Jakarta Selatan;Kabupaten/Kota;139;62;24;24;249
+7;16400;Kota Jakarta Timur;Kabupaten/Kota;221;82;229;65;597
+9;20500;Kab. Bogor;Kabupaten/Kota;781;130;66;328;1.305
+10;20600;Kab. Sukabumi;Kabupaten/Kota;374;94;82;248;798
+11;20700;Kab. Cianjur;Kabupaten/Kota;500;160;44;184;888
+12;20800;Kab. Bandung;Kabupaten/Kota;465;100;26;89;680
+13;21000;Kab. Sumedang;Kabupaten/Kota;117;10;0;4;131
+14;21100;Kab. Garut;Kabupaten/Kota;316;112;100;95;623
+15;21200;Kab. Tasikmalaya;Kabupaten/Kota;194;67;78;20;359
+16;21400;Kab. Ciamis;Kabupaten/Kota;78;19;3;19;119
+17;21500;Kab. Kuningan;Kabupaten/Kota;104;24;9;48;185
+18;21600;Kab. Majalengka;Kabupaten/Kota;147;19;3;13;182
+19;21700;Kab. Cirebon;Kabupaten/Kota;231;59;7;129;426
+20;21800;Kab. Indramayu;Kabupaten/Kota;208;64;80;41;393
+21;21900;Kab. Subang;Kabupaten/Kota;126;56;24;67;273
+22;22000;Kab. Purwakarta;Kabupaten/Kota;84;15;5;9;113
+23;22100;Kab. Karawang;Kabupaten/Kota;388;49;7;46;490
+24;22200;Kab. Bekasi;Kabupaten/Kota;267;55;9;89;420
+25;22300;Kab. Bandung Barat;Kabupaten/Kota;202;40;79;38;359
+26;22500;Kab. Pangandaran;Kabupaten/Kota;23;2;1;13;39
+27;26000;Kota Bandung;Kabupaten/Kota;135;5;10;22;172
+28;26100;Kota Bogor;Kabupaten/Kota;46;11;0;10;67
+29;26200;Kota Sukabumi;Kabupaten/Kota;31;1;13;0;45
+30;26300;Kota Cirebon;Kabupaten/Kota;23;19;1;3;46
+31;26500;Kota Bekasi;Kabupaten/Kota;176;33;36;35;280
+32;26600;Kota Depok;Kabupaten/Kota;154;45;3;22;224
+33;26700;Kota Cimahi;Kabupaten/Kota;24;7;1;8;40
+34;26800;Kota Tasikmalaya;Kabupaten/Kota;64;20;0;8;92
+35;26900;Kota Banjar;Kabupaten/Kota;14;1;1;7;23
+37;30100;Kab. Cilacap;Kabupaten/Kota;109;8;8;8;133
+38;30200;Kab. Banyumas;Kabupaten/Kota;92;28;7;12;139
+39;30300;Kab. Purbalingga;Kabupaten/Kota;56;0;1;33;90
+40;30400;Kab. Banjarnegara;Kabupaten/Kota;123;16;2;15;156
+41;30500;Kab. Kebumen;Kabupaten/Kota;111;3;9;25;148
+42;30600;Kab. Purworejo;Kabupaten/Kota;14;14;0;0;28
+43;30700;Kab. Wonosobo;Kabupaten/Kota;46;23;2;1;72
+44;30800;Kab. Magelang;Kabupaten/Kota;58;30;2;34;124
+45;30900;Kab. Boyolali;Kabupaten/Kota;39;2;7;8;56
+46;31000;Kab. Klaten;Kabupaten/Kota;32;1;7;9;49
+47;31100;Kab. Sukoharjo;Kabupaten/Kota;34;4;14;6;58
+48;31200;Kab. Wonogiri;Kabupaten/Kota;40;17;4;20;81
+49;31300;Kab. Karanganyar;Kabupaten/Kota;25;11;0;8;44
+50;31400;Kab. Sragen;Kabupaten/Kota;60;25;7;19;111
+51;31500;Kab. Grobogan;Kabupaten/Kota;86;35;5;44;170
+52;31600;Kab. Blora;Kabupaten/Kota;84;8;5;14;111
+53;31700;Kab. Rembang;Kabupaten/Kota;15;2;6;7;30
+54;31800;Kab. Pati;Kabupaten/Kota;90;4;2;29;125
+55;31900;Kab. Kudus;Kabupaten/Kota;45;4;0;15;64
+56;32000;Kab. Jepara;Kabupaten/Kota;52;18;13;22;105
+57;32100;Kab. Demak;Kabupaten/Kota;130;4;6;58;198
+58;32200;Kab. Semarang;Kabupaten/Kota;53;8;2;30;93
+59;32300;Kab. Temanggung;Kabupaten/Kota;16;7;1;1;25
+60;32400;Kab. Kendal;Kabupaten/Kota;40;11;10;28;89
+61;32500;Kab. Batang;Kabupaten/Kota;80;3;1;5;89
+62;32600;Kab. Pekalongan;Kabupaten/Kota;67;8;9;6;90
+63;32700;Kab. Pemalang;Kabupaten/Kota;141;27;1;14;183
+64;32800;Kab. Tegal;Kabupaten/Kota;121;21;4;65;211
+65;32900;Kab. Brebes;Kabupaten/Kota;221;90;10;98;419
+66;36000;Kota Magelang;Kabupaten/Kota;3;4;2;1;10
+67;36100;Kota Surakarta;Kabupaten/Kota;31;8;6;3;48
+68;36200;Kota Salatiga;Kabupaten/Kota;4;7;0;2;13
+69;36300;Kota Semarang;Kabupaten/Kota;65;10;4;9;88
+70;36400;Kota Pekalongan;Kabupaten/Kota;13;2;0;1;16
+71;36500;Kota Tegal;Kabupaten/Kota;16;1;9;2;28
+73;40100;Kab. Bantul;Kabupaten/Kota;14;0;1;4;19
+74;40200;Kab. Sleman;Kabupaten/Kota;24;1;1;4;30
+75;40300;Kab. Gunungkidul;Kabupaten/Kota;21;4;2;0;27
+76;40400;Kab. Kulon Progo;Kabupaten/Kota;6;4;0;4;14
+77;46000;Kota Yogyakarta;Kabupaten/Kota;34;5;1;8;48
+79;50100;Kab. Gresik;Kabupaten/Kota;55;22;15;82;174
+80;50200;Kab. Sidoarjo;Kabupaten/Kota;80;37;13;43;173
+81;50300;Kab. Mojokerto;Kabupaten/Kota;25;16;21;1;63
+82;50400;Kab. Jombang;Kabupaten/Kota;77;25;16;8;126
+83;50500;Kab. Bojonegoro;Kabupaten/Kota;29;9;15;26;79
+84;50600;Kab. Tuban;Kabupaten/Kota;33;16;13;7;69
+85;50700;Kab. Lamongan;Kabupaten/Kota;21;21;34;19;95
+86;50800;Kab. Madiun;Kabupaten/Kota;19;3;2;3;27
+87;50900;Kab. Ngawi;Kabupaten/Kota;28;22;13;10;73
+88;51000;Kab. Magetan;Kabupaten/Kota;29;5;17;9;60
+89;51100;Kab. Ponorogo;Kabupaten/Kota;22;17;5;29;73
+90;51200;Kab. Pacitan;Kabupaten/Kota;34;8;5;6;53
+91;51300;Kab. Kediri;Kabupaten/Kota;36;28;11;16;91
+92;51400;Kab. Nganjuk;Kabupaten/Kota;74;13;1;41;129
+93;51500;Kab. Blitar;Kabupaten/Kota;42;20;7;23;92
+94;51600;Kab. Tulungagung;Kabupaten/Kota;37;10;13;15;75
+95;51700;Kab. Trenggalek;Kabupaten/Kota;14;9;4;15;42
+96;51800;Kab. Malang;Kabupaten/Kota;205;185;37;131;558
+97;51900;Kab. Pasuruan;Kabupaten/Kota;103;18;5;38;164
+98;52000;Kab. Probolinggo;Kabupaten/Kota;132;106;31;45;314
+99;52100;Kab. Lumajang;Kabupaten/Kota;73;50;42;16;181
+100;52200;Kab. Bondowoso;Kabupaten/Kota;83;38;32;60;213
+101;52300;Kab. Situbondo;Kabupaten/Kota;67;115;9;39;230
+102;52400;Kab. Jember;Kabupaten/Kota;184;236;41;383;844
+103;52500;Kab. Banyuwangi;Kabupaten/Kota;77;25;4;20;126
+104;52600;Kab. Pamekasan;Kabupaten/Kota;139;103;88;118;448
+105;52700;Kab. Sampang;Kabupaten/Kota;294;294;112;74;774
+106;52800;Kab. Sumenep;Kabupaten/Kota;102;112;72;104;390
+107;52900;Kab. Bangkalan;Kabupaten/Kota;214;122;34;89;459
+108;56000;Kota Surabaya;Kabupaten/Kota;257;78;31;80;446
+109;56100;Kota Malang;Kabupaten/Kota;12;14;84;35;145
+110;56200;Kota Madiun;Kabupaten/Kota;5;0;0;0;5
+111;56300;Kota Kediri;Kabupaten/Kota;21;2;3;17;43
+112;56400;Kota Mojokerto;Kabupaten/Kota;2;0;0;5;7
+113;56500;Kota Blitar;Kabupaten/Kota;0;0;1;14;15
+114;56600;Kota Pasuruan;Kabupaten/Kota;7;2;0;2;11
+115;56700;Kota Probolinggo;Kabupaten/Kota;16;9;2;20;47
+116;56800;Kota Batu;Kabupaten/Kota;6;2;9;2;19
+118;60100;Kab. Aceh Besar;Kabupaten/Kota;32;13;15;19;79
+119;60200;Kab. Pidie;Kabupaten/Kota;60;28;13;22;123
+120;60300;Kab. Aceh Utara;Kabupaten/Kota;94;52;73;24;243
+121;60400;Kab. Aceh Timur;Kabupaten/Kota;214;98;2;9;323
+122;60500;Kab. Aceh Tengah;Kabupaten/Kota;24;7;5;20;56
+123;60600;Kab. Aceh Barat;Kabupaten/Kota;21;5;9;4;39
+124;60700;Kab. Aceh Selatan;Kabupaten/Kota;22;26;16;2;66
+125;60800;Kab. Aceh Tenggara;Kabupaten/Kota;182;46;23;1;252
+126;61100;Kab. Simeulue;Kabupaten/Kota;22;12;16;0;50
+127;61200;Kab. Bireuen;Kabupaten/Kota;81;16;33;2;132
+128;61300;Kab. Aceh Singkil;Kabupaten/Kota;51;11;4;3;69
+129;61400;Kab. Aceh Tamiang;Kabupaten/Kota;19;27;5;7;58
+130;61500;Kab. Nagan Raya;Kabupaten/Kota;35;28;8;0;71
+131;61600;Kab. Aceh Jaya;Kabupaten/Kota;19;3;15;4;41
+132;61700;Kab. Aceh Barat Daya;Kabupaten/Kota;7;2;13;0;22
+133;61800;Kab. Gayo Lues;Kabupaten/Kota;18;21;13;2;54
+134;61900;Kab. Bener Meriah;Kabupaten/Kota;23;4;8;2;37
+135;62000;Kab. Pidie Jaya;Kabupaten/Kota;20;6;9;8;43
+136;66000;Kota Sabang;Kabupaten/Kota;1;0;0;0;1
+137;66100;Kota Banda Aceh;Kabupaten/Kota;21;2;6;12;41
+138;66200;Kota Lhokseumawe;Kabupaten/Kota;10;1;2;8;21
+139;66300;Kota Langsa;Kabupaten/Kota;38;23;4;15;80
+140;66400;Kota Subulussalam;Kabupaten/Kota;46;9;7;5;67
+142;70100;Kab. Deli Serdang;Kabupaten/Kota;416;232;141;347;1.136
+143;70200;Kab. Langkat;Kabupaten/Kota;379;82;125;110;696
+144;70300;Kab. Karo;Kabupaten/Kota;65;18;35;31;149
+145;70400;Kab. Simalungun;Kabupaten/Kota;206;134;84;100;524
+146;70500;Kab. Dairi;Kabupaten/Kota;129;73;29;77;308
+147;70600;Kab. Asahan;Kabupaten/Kota;284;34;43;37;398
+148;70700;Kab. Labuhanbatu;Kabupaten/Kota;52;50;16;52;170
+149;70800;Kab. Tapanuli Utara;Kabupaten/Kota;48;20;14;12;94
+150;70900;Kab. Tapanuli Tengah;Kabupaten/Kota;76;36;23;68;203
+151;71000;Kab. Tapanuli Selatan;Kabupaten/Kota;50;15;17;0;82
+152;71100;Kab. Nias;Kabupaten/Kota;56;41;11;5;113
+153;71500;Kab. Mandailing Natal;Kabupaten/Kota;115;29;23;22;189
+154;71600;Kab. Toba;Kabupaten/Kota;34;5;16;30;85
+155;71700;Kab. Nias Selatan;Kabupaten/Kota;311;252;181;197;941
+156;71800;Kab. Pakpak Bharat;Kabupaten/Kota;4;3;1;2;10
+157;71900;Kab. Humbang Hasundutan;Kabupaten/Kota;52;22;28;2;104
+158;72000;Kab. Samosir;Kabupaten/Kota;38;8;9;5;60
+159;72100;Kab. Serdang Bedagai;Kabupaten/Kota;261;85;26;87;459
+160;72200;Kab. Batu Bara;Kabupaten/Kota;134;70;66;82;352
+161;72300;Kab. Padang Lawas utara;Kabupaten/Kota;28;22;2;18;70
+162;72400;Kab. Padang Lawas;Kabupaten/Kota;73;26;40;34;173
+163;72500;Kab. Labuhanbatu Utara;Kabupaten/Kota;107;27;15;227;376
+164;72600;Kab. Labuhanbatu Selatan;Kabupaten/Kota;44;19;19;6;88
+165;72700;Kab. Nias Barat;Kabupaten/Kota;25;2;9;3;39
+166;72800;Kab. Nias Utara;Kabupaten/Kota;49;26;9;12;96
+167;76000;Kota Medan;Kabupaten/Kota;449;217;176;329;1.171
+168;76100;Kota Binjai;Kabupaten/Kota;20;5;25;104;154
+169;76200;Kota Tebing Tinggi;Kabupaten/Kota;45;4;16;19;84
+170;76300;Kota Pematangsiantar;Kabupaten/Kota;29;6;14;104;153
+171;76400;Kota Tanjung balai;Kabupaten/Kota;108;37;1;4;150
+172;76500;Kota Sibolga;Kabupaten/Kota;40;7;15;0;62
+173;76600;Kota Padang Sidempuan;Kabupaten/Kota;10;38;25;103;176
+174;76700;Kota Gunungsitoli;Kabupaten/Kota;30;21;9;54;114
+176;80100;Kab. Agam;Kabupaten/Kota;71;26;13;1;111
+177;80200;Kab. Pasaman;Kabupaten/Kota;64;5;23;3;95
+178;80300;Kab. Lima puluh Kota;Kabupaten/Kota;43;25;6;2;76
+179;80400;Kab. Solok;Kabupaten/Kota;70;35;26;0;131
+180;80500;Kab. Padang Pariaman;Kabupaten/Kota;84;24;9;8;125
+181;80600;Kab. Pesisir Selatan;Kabupaten/Kota;61;29;24;137;251
+182;80700;Kab. Tanah Datar;Kabupaten/Kota;38;20;8;3;69
+183;80800;Kab. Sijunjung;Kabupaten/Kota;37;13;2;4;56
+184;81000;Kab. Kepulauan Mentawai;Kabupaten/Kota;40;28;26;0;94
+185;81100;Kab. Solok Selatan;Kabupaten/Kota;32;18;1;2;53
+186;81200;Kab. Dharmasraya;Kabupaten/Kota;34;20;8;2;64
+187;81300;Kab. Pasaman Barat;Kabupaten/Kota;65;28;27;16;136
+188;86000;Kota Bukittinggi;Kabupaten/Kota;5;14;22;1;42
+189;86100;Kota Padang;Kabupaten/Kota;81;8;13;17;119
+190;86200;Kota Padang Panjang;Kabupaten/Kota;3;1;1;14;19
+191;86300;Kota Sawahlunto;Kabupaten/Kota;3;0;4;0;7
+192;86400;Kota Solok;Kabupaten/Kota;10;0;1;32;43
+193;86500;Kota Payakumbuh;Kabupaten/Kota;19;15;26;0;60
+194;86600;Kota Pariaman;Kabupaten/Kota;18;0;1;10;29
+196;90100;Kab. Kampar;Kabupaten/Kota;90;42;60;7;199
+197;90200;Kab. Bengkalis;Kabupaten/Kota;74;26;31;22;153
+198;90400;Kab. Indragiri Hulu;Kabupaten/Kota;132;18;7;11;168
+199;90500;Kab. Indragiri Hilir;Kabupaten/Kota;125;45;29;7;206
+200;90800;Kab. Pelalawan;Kabupaten/Kota;71;25;9;114;219
+201;90900;Kab. Rokan Hulu;Kabupaten/Kota;103;58;6;27;194
+202;91000;Kab. Rokan Hilir;Kabupaten/Kota;157;43;42;22;264
+203;91100;Kab. Siak;Kabupaten/Kota;52;19;6;7;84
+204;91400;Kab. Kuantan Singingi;Kabupaten/Kota;23;4;7;3;37
+205;91500;Kab. Kepulauan Meranti;Kabupaten/Kota;57;21;11;0;89
+206;96000;Kota Pekanbaru;Kabupaten/Kota;144;192;15;26;377
+207;96200;Kota Dumai;Kabupaten/Kota;23;5;9;7;44
+209;100.100;Kab. Batang Hari;Kabupaten/Kota;31;4;53;2;90
+210;100.200;Kab. Bungo;Kabupaten/Kota;45;30;29;11;115
+211;100.300;Kab. Sarolangun;Kabupaten/Kota;36;5;8;2;51
+212;100.400;Kab. Tanjung Jabung Barat;Kabupaten/Kota;110;11;12;5;138
+213;100.500;Kab. Kerinci;Kabupaten/Kota;166;39;56;2;263
+214;100.600;Kab. Tebo;Kabupaten/Kota;83;8;4;18;113
+215;100.700;Kab. Muaro Jambi;Kabupaten/Kota;34;6;9;1;50
+216;100.800;Kab. Tanjung Jabung Timur;Kabupaten/Kota;55;9;6;4;74
+217;100.900;Kab. Merangin;Kabupaten/Kota;36;24;3;6;69
+218;106.000;Kota Jambi;Kabupaten/Kota;50;9;11;15;85
+219;106.100;Kota Sungai Penuh;Kabupaten/Kota;18;15;0;2;35
+221;110.100;Kab. Musi Banyuasin;Kabupaten/Kota;214;48;11;26;299
+222;110.200;Kab. Ogan Komering Ilir;Kabupaten/Kota;221;28;27;13;289
+223;110.300;Kab. Ogan Komering Ulu;Kabupaten/Kota;121;16;8;21;166
+224;110.400;Kab. Muara Enim;Kabupaten/Kota;174;33;16;13;236
+225;110.500;Kab. Lahat;Kabupaten/Kota;52;18;54;3;127
+226;110.600;Kab. Musi Rawas;Kabupaten/Kota;193;25;9;19;246
+227;110.700;Kab. Banyuasin;Kabupaten/Kota;180;84;48;16;328
+228;110.800;Kab. Ogan Komering Ulu Timur;Kabupaten/Kota;70;34;14;26;144
+229;110.900;Kab. Ogan Komering Ulu Selatan;Kabupaten/Kota;106;18;23;0;147
+230;111.000;Kab. Ogan Ilir;Kabupaten/Kota;76;57;14;8;155
+231;111.100;Kab. Empat Lawang;Kabupaten/Kota;66;12;9;3;90
+232;111.200;Kab. Penukal Abab Lematang Ilir;Kabupaten/Kota;102;14;20;7;143
+233;111.300;Kab. Musi Rawas Utara;Kabupaten/Kota;38;12;35;1;86
+234;116.000;Kota Palembang;Kabupaten/Kota;179;45;39;86;349
+235;116.100;Kota Prabumulih;Kabupaten/Kota;55;8;1;9;73
+236;116.200;Kota Lubuklinggau;Kabupaten/Kota;30;44;46;21;141
+237;116.300;Kota Pagar Alam;Kabupaten/Kota;10;28;23;2;63
+239;120.100;Kab. Lampung Selatan;Kabupaten/Kota;125;38;20;29;212
+240;120.200;Kab. Lampung Tengah;Kabupaten/Kota;74;15;19;10;118
+241;120.300;Kab. Lampung Utara;Kabupaten/Kota;66;9;20;12;107
+242;120.400;Kab. Lampung Barat;Kabupaten/Kota;26;14;12;0;52
+243;120.500;Kab. Tulang Bawang;Kabupaten/Kota;57;25;3;5;90
+244;120.600;Kab. Tanggamus;Kabupaten/Kota;62;21;6;14;103
+245;120.700;Kab. Lampung Timur;Kabupaten/Kota;80;18;9;11;118
+246;120.800;Kab. Way Kanan;Kabupaten/Kota;54;12;110;1;177
+247;120.900;Kab. Pesawaran;Kabupaten/Kota;66;4;3;18;91
+248;121.000;Kab. Pringsewu;Kabupaten/Kota;31;3;1;2;37
+249;121.100;Kab. Mesuji;Kabupaten/Kota;36;6;5;1;48
+250;121.200;Kab. Tulang Bawang Barat;Kabupaten/Kota;22;18;2;9;51
+251;121.300;Kab. Pesisir Barat;Kabupaten/Kota;43;4;0;0;47
+252;126.000;Kota Bandar Lampung;Kabupaten/Kota;100;11;43;5;159
+253;126.100;Kota Metro;Kabupaten/Kota;7;1;8;10;26
+255;130.100;Kab. Sambas;Kabupaten/Kota;125;22;17;39;203
+256;130.200;Kab. Mempawah;Kabupaten/Kota;41;2;5;2;50
+257;130.300;Kab. Sanggau;Kabupaten/Kota;118;79;20;58;275
+258;130.400;Kab. Sintang;Kabupaten/Kota;98;19;6;12;135
+259;130.500;Kab. Kapuas Hulu;Kabupaten/Kota;42;66;3;6;117
+260;130.600;Kab. Ketapang;Kabupaten/Kota;176;70;11;33;290
+261;130.800;Kab. Bengkayang;Kabupaten/Kota;43;28;15;8;94
+262;130.900;Kab. Landak;Kabupaten/Kota;33;6;19;1;59
+263;131.000;Kab. Sekadau;Kabupaten/Kota;29;9;4;10;52
+264;131.100;Kab. Melawi;Kabupaten/Kota;81;34;17;9;141
+265;131.200;Kab. Kayong Utara;Kabupaten/Kota;43;8;1;1;53
+266;131.300;Kab. Kubu Raya;Kabupaten/Kota;152;25;19;42;238
+267;136.000;Kota Pontianak;Kabupaten/Kota;65;11;24;2;102
+268;136.100;Kota Singkawang;Kabupaten/Kota;46;5;6;0;57
+270;140.100;Kab. Kapuas;Kabupaten/Kota;118;33;5;26;182
+271;140.200;Kab. Barito Selatan;Kabupaten/Kota;16;17;10;1;44
+272;140.300;Kab. Barito Utara;Kabupaten/Kota;20;10;5;0;35
+273;140.400;Kab. Kotawaringin Timur;Kabupaten/Kota;80;22;16;21;139
+274;140.500;Kab. Kotawaringin Barat;Kabupaten/Kota;43;14;9;7;73
+275;140.600;Kab. Katingan;Kabupaten/Kota;23;10;16;1;50
+276;140.700;Kab. Seruyan;Kabupaten/Kota;58;23;2;1;84
+277;140.800;Kab. Sukamara;Kabupaten/Kota;12;2;1;4;19
+278;140.900;Kab. Lamandau;Kabupaten/Kota;14;8;3;0;25
+279;141.000;Kab. Gunung Mas;Kabupaten/Kota;27;16;4;0;47
+280;141.100;Kab. Pulang Pisau;Kabupaten/Kota;20;26;3;3;52
+281;141.200;Kab. Murung Raya;Kabupaten/Kota;38;6;17;0;61
+282;141.300;Kab. Barito Timur;Kabupaten/Kota;46;18;2;2;68
+283;146.000;Kota Palangka Raya;Kabupaten/Kota;34;15;11;39;99
+285;150.100;Kab. Banjar;Kabupaten/Kota;122;24;6;1;153
+286;150.200;Kab. Tanah Laut;Kabupaten/Kota;61;14;4;5;84
+287;150.300;Kab. Barito Kuala;Kabupaten/Kota;54;14;3;1;72
+288;150.400;Kab. Tapin;Kabupaten/Kota;13;13;3;2;31
+289;150.500;Kab. Hulu Sungai Selatan;Kabupaten/Kota;34;7;0;2;43
+290;150.600;Kab. Hulu Sungai Tengah;Kabupaten/Kota;30;16;9;1;56
+291;150.700;Kab. Hulu Sungai Utara;Kabupaten/Kota;19;8;2;4;33
+292;150.800;Kab. Tabalong;Kabupaten/Kota;26;17;3;25;71
+293;150.900;Kab. Kotabaru;Kabupaten/Kota;45;19;7;29;100
+294;151.000;Kab. Balangan;Kabupaten/Kota;26;7;8;0;41
+295;151.100;Kab. Tanah Bumbu;Kabupaten/Kota;29;21;5;23;78
+296;156.000;Kota Banjarmasin;Kabupaten/Kota;63;15;10;23;111
+297;156.100;Kota Banjarbaru;Kabupaten/Kota;12;8;2;5;27
+299;160.100;Kab. Paser;Kabupaten/Kota;92;29;4;9;134
+300;160.200;Kab. Kutai Kartanegara;Kabupaten/Kota;195;32;15;13;255
+301;160.300;Kab. Berau;Kabupaten/Kota;75;48;2;3;128
+302;160.900;Kab. Kutai Barat;Kabupaten/Kota;21;8;13;3;45
+303;161.000;Kab. Kutai Timur;Kabupaten/Kota;108;37;31;9;185
+304;161.100;Kab. Penajam Paser Utara;Kabupaten/Kota;23;4;1;0;28
+305;161.200;Kab. Mahakam Ulu;Kabupaten/Kota;3;11;3;0;17
+306;166.000;Kota Samarinda;Kabupaten/Kota;47;11;4;6;68
+307;166.100;Kota Balikpapan;Kabupaten/Kota;59;4;2;7;72
+308;166.300;Kota Bontang;Kabupaten/Kota;16;0;0;5;21
+310;170.100;Kab. Bolaang Mongondow;Kabupaten/Kota;37;5;2;35;79
+311;170.200;Kab. Minahasa;Kabupaten/Kota;79;22;20;23;144
+312;170.300;Kab. Kepulauan Sangihe;Kabupaten/Kota;21;19;0;0;40
+313;170.400;Kab. Kepulauan Talaud;Kabupaten/Kota;44;3;6;0;53
+314;170.500;Kab. Minahasa Selatan;Kabupaten/Kota;47;17;11;10;85
+315;170.600;Kab. Minahasa Utara;Kabupaten/Kota;19;7;22;14;62
+316;170.800;Kab. Bolaang Mongondow Utara;Kabupaten/Kota;10;3;6;23;42
+317;170.900;Kab. Kepulauan Siau Tagulandang Biaro;Kabupaten/Kota;10;6;17;22;55
+318;171.000;Kab. Minahasa Tenggara;Kabupaten/Kota;39;11;6;2;58
+319;171.100;Kab. Bolaang Mongondow Timur;Kabupaten/Kota;7;3;0;7;17
+320;171.200;Kab. Bolaang Mongondow Selatan;Kabupaten/Kota;37;8;4;4;53
+321;176.000;Kota Manado;Kabupaten/Kota;79;70;44;3;196
+322;176.100;Kota Bitung;Kabupaten/Kota;27;4;16;14;61
+323;176.200;Kota Tomohon;Kabupaten/Kota;5;1;0;1;7
+324;176.300;Kota Kotamobagu;Kabupaten/Kota;8;2;0;0;10
+326;180.100;Kab. Banggai Kepulauan;Kabupaten/Kota;22;9;7;8;46
+327;180.200;Kab. Donggala;Kabupaten/Kota;148;46;17;17;228
+328;180.300;Kab. Poso;Kabupaten/Kota;59;10;13;4;86
+329;180.400;Kab. Banggai;Kabupaten/Kota;58;29;44;44;175
+330;180.500;Kab. Buol;Kabupaten/Kota;125;69;81;3;278
+331;180.600;Kab. Tolitoli;Kabupaten/Kota;60;28;17;15;120
+332;180.700;Kab. Morowali;Kabupaten/Kota;59;10;12;67;148
+333;180.800;Kab. Parigi Moutong;Kabupaten/Kota;209;149;2;6;366
+334;180.900;Kab. Tojo Una-Una;Kabupaten/Kota;71;38;16;0;125
+335;181.000;Kab. Sigi;Kabupaten/Kota;125;70;36;6;237
+336;181.100;Kab. Banggai Laut;Kabupaten/Kota;12;2;2;5;21
+337;181.200;Kab. Morowali Utara;Kabupaten/Kota;28;9;2;0;39
+338;186.000;Kota Palu;Kabupaten/Kota;37;31;21;24;113
+340;190.100;Kab. Maros;Kabupaten/Kota;70;30;28;4;132
+341;190.200;Kab. Pangkajene dan Kepulauan;Kabupaten/Kota;44;33;23;7;107
+342;190.300;Kab. Gowa;Kabupaten/Kota;142;94;108;52;396
+343;190.400;Kab. Takalar;Kabupaten/Kota;95;25;34;21;175
+344;190.500;Kab. Jeneponto;Kabupaten/Kota;206;90;20;10;326
+345;190.600;Kab. Barru;Kabupaten/Kota;23;29;11;1;64
+346;190.700;Kab. Bone;Kabupaten/Kota;178;77;111;6;372
+347;190.800;Kab. Wajo;Kabupaten/Kota;107;48;16;78;249
+348;190.900;Kab. Soppeng;Kabupaten/Kota;16;10;12;34;72
+349;191.000;Kab. Bantaeng;Kabupaten/Kota;74;20;3;3;100
+350;191.100;Kab. Bulukumba;Kabupaten/Kota;104;14;42;16;176
+351;191.200;Kab. Sinjai;Kabupaten/Kota;86;13;70;24;193
+352;191.300;Kab. Kepulauan Selayar;Kabupaten/Kota;30;20;15;31;96
+353;191.400;Kab. Pinrang;Kabupaten/Kota;100;26;4;7;137
+354;191.500;Kab. Sidenreng Rappang;Kabupaten/Kota;61;27;12;5;105
+355;191.600;Kab. Enrekang;Kabupaten/Kota;17;3;14;5;39
+356;191.700;Kab. Luwu;Kabupaten/Kota;55;35;159;16;265
+357;191.800;Kab. Tana Toraja;Kabupaten/Kota;29;8;7;31;75
+358;192.400;Kab. Luwu Utara;Kabupaten/Kota;15;2;21;12;50
+359;192.600;Kab. Luwu Timur;Kabupaten/Kota;37;15;14;2;68
+360;192.700;Kab. Toraja Utara;Kabupaten/Kota;104;10;14;4;132
+361;196.000;Kota Makassar;Kabupaten/Kota;193;56;151;101;501
+362;196.100;Kota Parepare;Kabupaten/Kota;7;26;12;37;82
+363;196.200;Kota Palopo;Kabupaten/Kota;18;6;23;21;68
+365;200.100;Kab. Konawe;Kabupaten/Kota;67;22;57;16;162
+366;200.200;Kab. Muna;Kabupaten/Kota;68;35;12;136;251
+367;200.300;Kab. Buton;Kabupaten/Kota;30;7;5;2;44
+368;200.400;Kab. Kolaka;Kabupaten/Kota;78;8;9;10;105
+369;200.500;Kab. Konawe Selatan;Kabupaten/Kota;113;14;52;1;180
+370;200.600;Kab. Wakatobi;Kabupaten/Kota;42;8;10;0;60
+371;200.700;Kab. Bombana;Kabupaten/Kota;55;13;10;2;80
+372;200.800;Kab. Kolaka Utara;Kabupaten/Kota;23;10;11;25;69
+373;200.900;Kab. Konawe Utara;Kabupaten/Kota;35;17;3;2;57
+374;201.000;Kab. Buton Utara;Kabupaten/Kota;20;22;5;3;50
+375;201.100;Kab. Kolaka Timur;Kabupaten/Kota;19;6;6;2;33
+376;201.200;Kab. Konawe Kepulauan;Kabupaten/Kota;9;3;2;1;15
+377;201.300;Kab. Muna Barat;Kabupaten/Kota;52;39;4;7;102
+378;201.400;Kab. Buton Selatan;Kabupaten/Kota;20;4;3;0;27
+379;201.600;Kab. Buton Tengah;Kabupaten/Kota;44;12;7;8;71
+380;206.000;Kota Kendari;Kabupaten/Kota;18;8;5;2;33
+381;206.100;Kota Baubau;Kabupaten/Kota;37;2;10;4;53
+383;210.100;Kab. Maluku Tengah;Kabupaten/Kota;217;26;19;0;262
+384;210.200;Kab. Maluku Tenggara;Kabupaten/Kota;33;8;38;5;84
+385;210.300;Kab. Buru;Kabupaten/Kota;42;3;0;0;45
+386;210.400;Kab. Kepulauan Tanimbar;Kabupaten/Kota;63;27;36;4;130
+387;210.500;Kab. Seram Bagian Barat;Kabupaten/Kota;42;26;13;0;81
+388;210.600;Kab. Seram Bagian Timur;Kabupaten/Kota;60;36;16;0;112
+389;210.700;Kab. Kepulauan Aru;Kabupaten/Kota;31;19;7;1;58
+390;210.800;Kab. Maluku Barat Daya;Kabupaten/Kota;25;46;47;20;138
+391;210.900;Kab. Buru Selatan;Kabupaten/Kota;42;7;2;2;53
+392;216.000;Kota Ambon;Kabupaten/Kota;68;13;82;17;180
+393;216.100;Kota Tual;Kabupaten/Kota;31;0;2;0;33
+395;220.100;Kab. Buleleng;Kabupaten/Kota;52;14;2;6;74
+396;220.200;Kab. Jembrana;Kabupaten/Kota;18;1;2;1;22
+397;220.300;Kab. Tabanan;Kabupaten/Kota;11;0;1;1;13
+398;220.400;Kab. Badung;Kabupaten/Kota;19;8;3;6;36
+399;220.500;Kab. Gianyar;Kabupaten/Kota;11;2;0;3;16
+400;220.600;Kab. Klungkung;Kabupaten/Kota;20;0;4;0;24
+401;220.700;Kab. Bangli;Kabupaten/Kota;8;9;0;2;19
+402;220.800;Kab. Karangasem;Kabupaten/Kota;20;11;2;1;34
+403;226.000;Kota Denpasar;Kabupaten/Kota;9;1;7;14;31
+405;230.100;Kab. Lombok Barat;Kabupaten/Kota;123;21;131;84;359
+406;230.200;Kab. Lombok Tengah;Kabupaten/Kota;167;91;80;61;399
+407;230.300;Kab. Lombok Timur;Kabupaten/Kota;197;61;305;315;878
+408;230.400;Kab. Sumbawa;Kabupaten/Kota;57;13;21;48;139
+409;230.500;Kab. Dompu;Kabupaten/Kota;165;17;82;18;282
+410;230.600;Kab. Bima;Kabupaten/Kota;256;96;122;97;571
+411;230.700;Kab. Sumbawa Barat;Kabupaten/Kota;14;4;5;6;29
+412;230.800;Kab. Lombok Utara;Kabupaten/Kota;37;8;133;9;187
+413;236.000;Kota Mataram;Kabupaten/Kota;17;6;11;17;51
+414;236.100;Kota Bima;Kabupaten/Kota;60;2;29;6;97
+416;240.100;Kab. Kupang;Kabupaten/Kota;66;54;48;63;231
+417;240.300;Kab. Timor Tengah Selatan;Kabupaten/Kota;384;86;44;91;605
+418;240.400;Kab. Timor Tengah Utara;Kabupaten/Kota;55;26;33;17;131
+419;240.500;Kab. Belu;Kabupaten/Kota;76;35;9;7;127
+420;240.600;Kab. Alor;Kabupaten/Kota;130;46;59;20;255
+421;240.700;Kab. Flores Timur;Kabupaten/Kota;67;24;28;43;162
+422;240.800;Kab. Sikka;Kabupaten/Kota;110;47;12;15;184
+423;240.900;Kab. Ende;Kabupaten/Kota;66;24;20;122;232
+424;241.000;Kab. Ngada;Kabupaten/Kota;32;22;13;32;99
+425;241.100;Kab. Manggarai;Kabupaten/Kota;48;43;44;16;151
+426;241.200;Kab. Sumba Timur;Kabupaten/Kota;1.361;52;27;1;1.441
+427;241.300;Kab. Sumba Barat;Kabupaten/Kota;67;17;37;2;123
+428;241.400;Kab. Lembata;Kabupaten/Kota;33;9;26;2;70
+429;241.500;Kab. Rote Ndao;Kabupaten/Kota;44;18;6;10;78
+430;241.600;Kab. Manggarai Barat;Kabupaten/Kota;38;17;19;3;77
+431;241.700;Kab. Nagekeo;Kabupaten/Kota;48;27;11;5;91
+432;241.800;Kab. Sumba Tengah;Kabupaten/Kota;17;4;4;4;29
+433;241.900;Kab. Sumba Barat Daya;Kabupaten/Kota;515;173;31;167;886
+434;242.000;Kab. Manggarai Timur;Kabupaten/Kota;65;50;57;44;216
+435;242.100;Kab. Sabu Raijua;Kabupaten/Kota;23;4;8;3;38
+436;242.200;Kab. Malaka;Kabupaten/Kota;150;75;18;3;246
+437;246.000;Kota Kupang;Kabupaten/Kota;68;13;42;16;139
+439;250.100;Kab. Jayapura;Kabupaten/Kota;115;22;47;9;193
+440;250.200;Kab. Biak Numfor;Kabupaten/Kota;122;19;10;2;153
+441;250.300;Kab. Kepulauan Yapen;Kabupaten/Kota;39;3;12;32;86
+442;250.700;Kab. Merauke;Kabupaten/Kota;156;93;26;53;328
+443;250.800;Kab. Jayawijaya;Kabupaten/Kota;36;136;59;86;317
+444;250.900;Kab. Nabire;Kabupaten/Kota;47;30;14;9;100
+445;251.000;Kab. Paniai;Kabupaten/Kota;237;8;111;3;359
+446;251.100;Kab. Puncak Jaya;Kabupaten/Kota;214;16;0;0;230
+447;251.200;Kab. Mimika;Kabupaten/Kota;123;50;8;10;191
+448;251.300;Kab. Boven Digoel;Kabupaten/Kota;123;1;2;0;126
+449;251.400;Kab. Mappi;Kabupaten/Kota;243;26;1;11;281
+450;251.500;Kab. Asmat;Kabupaten/Kota;252;10;0;0;262
+451;251.600;Kab. Yahukimo;Kabupaten/Kota;284;107;5;3;399
+452;251.700;Kab. Pegunungan Bintang;Kabupaten/Kota;232;4;0;5;241
+453;251.800;Kab. Tolikara;Kabupaten/Kota;12;117;2;0;131
+454;251.900;Kab. Sarmi;Kabupaten/Kota;46;19;0;9;74
+455;252.000;Kab. Keerom;Kabupaten/Kota;18;2;0;0;20
+456;252.600;Kab. Waropen;Kabupaten/Kota;38;10;0;0;48
+457;252.700;Kab. Supiori;Kabupaten/Kota;21;4;10;0;35
+458;252.800;Kab. Mamberamo Raya;Kabupaten/Kota;14;7;3;0;24
+459;252.900;Kab. Nduga;Kabupaten/Kota;41;0;3;0;44
+460;253.000;Kab. Lanny Jaya;Kabupaten/Kota;57;14;52;5;128
+461;253.100;Kab. Mamberamo Tengah;Kabupaten/Kota;23;8;2;0;33
+462;253.200;Kab. Yalimo;Kabupaten/Kota;24;18;0;0;42
+463;253.300;kab. Puncak;Kabupaten/Kota;3;2;2;0;7
+464;253.400;Kab. Dogiyai;Kabupaten/Kota;175;35;0;8;218
+465;253.500;Kab. Deiyai;Kabupaten/Kota;55;63;32;9;159
+466;253.600;Kab. Intan Jaya;Kabupaten/Kota;2;14;0;0;16
+467;256.000;Kota Jayapura;Kabupaten/Kota;90;18;1;40;149
+469;260.100;Kab. Bengkulu Utara;Kabupaten/Kota;27;12;12;1;52
+470;260.200;Kab. Rejang Lebong;Kabupaten/Kota;21;8;7;13;49
+471;260.300;Kab. Bengkulu Selatan;Kabupaten/Kota;70;1;29;3;103
+472;260.400;Kab. Mukomuko;Kabupaten/Kota;34;4;13;31;82
+473;260.500;Kab. Kepahiang;Kabupaten/Kota;15;9;10;2;36
+474;260.600;Kab. Lebong;Kabupaten/Kota;8;13;1;4;26
+475;260.700;Kab. Kaur;Kabupaten/Kota;37;18;13;13;81
+476;260.800;Kab. Seluma;Kabupaten/Kota;31;6;10;9;56
+477;260.900;Kab. Bengkulu Tengah;Kabupaten/Kota;19;6;12;0;37
+478;266.000;Kota Bengkulu;Kabupaten/Kota;24;14;12;122;172
+480;270.100;Kab. Pulau Taliabu;Kabupaten/Kota;53;16;5;11;85
+481;270.200;Kab. Halmahera Tengah;Kabupaten/Kota;56;35;9;0;100
+482;270.300;Kab. Halmahera Barat;Kabupaten/Kota;50;5;4;3;62
+483;270.400;Kab. halmahera Utara;Kabupaten/Kota;93;9;9;33;144
+484;270.500;Kab. Halmahera Selatan;Kabupaten/Kota;172;42;62;25;301
+485;270.600;Kab. Halmahera Timur;Kabupaten/Kota;33;10;3;13;59
+486;270.700;Kab. Kepulauan Sula;Kabupaten/Kota;5;10;0;3;18
+487;270.800;Kab. Pulau Morotai;Kabupaten/Kota;1;1;5;8;15
+488;276.000;Kota Ternate;Kabupaten/Kota;34;13;4;7;58
+489;276.100;Kota Tidore Kepulauan;Kabupaten/Kota;37;3;2;4;46
+491;280.100;Kab. Pandeglang;Kabupaten/Kota;249;92;41;76;458
+492;280.200;Kab. Lebak;Kabupaten/Kota;204;85;29;23;341
+493;280.300;Kab. Tangerang;Kabupaten/Kota;408;88;93;332;921
+494;280.400;Kab. Serang;Kabupaten/Kota;181;161;137;71;550
+495;286.000;Kota Cilegon;Kabupaten/Kota;9;2;4;37;52
+496;286.100;Kota Tangerang;Kabupaten/Kota;111;6;8;12;137
+497;286.200;Kota Serang;Kabupaten/Kota;143;23;16;27;209
+498;286.300;Kota Tangerang Selatan;Kabupaten/Kota;92;14;14;2;122
+500;290.100;Kab. Bangka;Kabupaten/Kota;71;4;6;3;84
+501;290.200;Kab. Belitung;Kabupaten/Kota;14;1;1;16;32
+502;290.300;Kab. Bangka Tengah;Kabupaten/Kota;16;3;1;1;21
+503;290.400;Kab. Bangka Barat;Kabupaten/Kota;39;14;5;9;67
+504;290.500;Kab. Bangka Selatan;Kabupaten/Kota;42;6;10;19;77
+505;290.600;Kab. Belitung Timur;Kabupaten/Kota;16;2;0;0;18
+506;296.000;Kota Pangkalpinang;Kabupaten/Kota;33;1;0;3;37
+508;300.100;Kab. Boalemo;Kabupaten/Kota;106;27;44;24;201
+509;300.200;Kab. Gorontalo;Kabupaten/Kota;137;61;42;24;264
+510;300.300;Kab. Pohuwato;Kabupaten/Kota;103;19;29;10;161
+511;300.400;Kab. Bone Bolango;Kabupaten/Kota;86;45;27;17;175
+512;300.500;Kab. Gorontalo Utara;Kabupaten/Kota;58;17;20;60;155
+513;306.000;Kota Gorontalo;Kabupaten/Kota;28;14;6;14;62
+515;310.100;Kab. Bintan;Kabupaten/Kota;35;0;1;2;38
+516;310.200;Kab. Karimun;Kabupaten/Kota;32;3;2;0;37
+517;310.300;Kab. Natuna;Kabupaten/Kota;4;3;4;0;11
+518;310.400;Kab. Lingga;Kabupaten/Kota;2;1;1;0;4
+519;310.500;Kab. Kepulauan Anambas;Kabupaten/Kota;7;1;0;0;8
+520;316.000;Kota Batam;Kabupaten/Kota;169;10;52;5;236
+521;316.100;Kota Tanjungpinang;Kabupaten/Kota;22;1;1;1;25
+523;320.100;Kab. Fakfak;Kabupaten/Kota;32;10;10;8;60
+524;320.200;Kab. Kaimana;Kabupaten/Kota;25;4;0;0;29
+525;320.300;Kab. Teluk Wondama;Kabupaten/Kota;73;5;0;0;78
+526;320.400;Kab. Teluk Bintuni;Kabupaten/Kota;59;20;0;6;85
+527;320.500;Kab. Manokwari;Kabupaten/Kota;25;6;7;17;55
+528;320.600;Kab. Sorong Selatan;Kabupaten/Kota;32;2;0;0;34
+529;320.700;Kab. Sorong;Kabupaten/Kota;96;9;13;3;121
+530;320.800;Kab. Raja Ampat;Kabupaten/Kota;27;9;7;9;52
+531;320.900;Kab. Tambrauw;Kabupaten/Kota;26;7;13;1;47
+532;321.000;Kab. Maybrat;Kabupaten/Kota;3;13;1;0;17
+533;321.100;Kab. Pegunungan Arfak;Kabupaten/Kota;35;7;0;0;42
+534;321.200;Kab. Manokwari Selatan;Kabupaten/Kota;23;5;4;0;32
+535;326.000;Kota Sorong;Kabupaten/Kota;128;15;17;31;191
+537;330.100;Kab. Mamuju;Kabupaten/Kota;104;32;12;7;155
+538;330.200;Kab. Pasangkayu;Kabupaten/Kota;59;40;4;30;133
+539;330.300;Kab. Polewali Mandar;Kabupaten/Kota;98;57;6;14;175
+540;330.400;Kab. Mamasa;Kabupaten/Kota;40;19;20;186;265
+541;330.500;Kab. Majene;Kabupaten/Kota;42;12;40;106;200
+542;330.600;Kab. Mamuju Tengah;Kabupaten/Kota;59;6;0;13;78
+544;340.100;Kab. Malinau;Kabupaten/Kota;32;13;6;0;51
+545;340.200;Kab. Bulungan;Kabupaten/Kota;30;2;2;2;36
+546;340.300;Kab. Tana Tidung;Kabupaten/Kota;6;0;0;1;7
+547;340.500;Kab. Nunukan;Kabupaten/Kota;70;18;6;8;102
+548;346.000;Kota Tarakan;Kabupaten/Kota;24;6;2;5;37
+549;347.000;Luar Negeri;Luar Negeri;73;8;16;0;97
